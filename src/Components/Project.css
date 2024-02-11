@@ -1,0 +1,18 @@
+.k1{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+.k2{
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(2,600px);
+    grid-template-rows: repeat(3,300px);
+    gap: 50px;
+}
+.k3{
+    box-shadow: 10px 10px 10px blanchedalmond;
+    border-radius: 20px;
+    color: white;
+}

@@ -1,0 +1,21 @@
+.p1{
+    color: white;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 400px;
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+    grid-template-rows: repeat(2,200px);
+    gap: 20px;
+}
+.p2{
+   
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #7B66FF;
+}
+.p3{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
